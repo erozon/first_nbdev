@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "first_nbdev"
+  site-url: "https://erozon.github.io/first_nbdev"
+  description: "This is my first nbdev repo."
+  repo-branch: master
+  repo-url: "https://github.com/erozon/first_nbdev"
